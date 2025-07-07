@@ -3,6 +3,8 @@
 #### Pymc-Marketing: https://www.pymc-marketing.io/en/0.12.0/notebooks/mmm/mmm_example.html    
 #### Pymc-Customer Lifetime value: https://www.pymc-marketing.io/en/0.12.0/notebooks/clv/clv_quickstart.html#clv-quickstart   
 
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
 #### https://www.ljwolf.org/teaching/gibbs.html
 #### https://www.tweag.io/blog/2019-10-25-mcmc-intro1/
 #### https://github.com/tweag/blog-resources/blob/master/mcmc-intro/mcmc_introduction.ipynb
